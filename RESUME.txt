@@ -1,0 +1,23 @@
+
+SYSTEME DE GESTION DE VERSION: Il s'agit de la gestion continu des donnés que l'on possède par rapport à un travail qu'on fait. Il existe des système de gestion de version LOCALE, CENTRALISE et DISTRIBUE
+
+1) LOCALE: La gestion se fait sur une machine en locale. 
+Avantage--> Je peut partager mes versions avec les autres par copie, je ne risque pas de perdre mes donnés en cas de problème serveur si un ami a une copie et je n'ai pas besoin de la connexion à tout temps.
+Inconvenients--> lent dans mon travail car j'ai du mal à le partager avec les autres, en cas de panne machine et sans sauvegarde extérieur je perd tout
+
+2) CENTRALISE: Par le biais d'un dépôt sur un serveur
+Avantage--> Je ne craint pas de perte en cas de panne machine. Je peut toujours récupérer l'une des versions et continuer à travailler. Je peut partager mon travail avec les autres et ensemble faire avancer le projet.
+Inconvenients--> Je perd tout en cas de panne serveur. Obligation de travailler sur internet.
+
+3) DISTRIBUE: Un peu une fusion des deux
+Avantage--> chaque chaque extraction est une sauvegarde locale et complète, ainsi je ne risque pas de perdre quelque chose. 
+Inconvénients--> Presqu'aucun inconvénient. EXEMPLE: GIT
+
+
+GIT (UN SYSTEME DE GESTION DE VERSION DE TYPE DISTRIBUE)
+
+En résumé il fonctionne en trois étapes: 
+§ Modification
+§ Indexation 
+§ Validation
+
