@@ -21,3 +21,24 @@ En résumé il fonctionne en trois étapes:
 § Indexation 
 § Validation
 
+CODES: 
+
+Envoi en ligne
+§ git push -u origin (nom de la branche)
+
+Creation due nouvelle branche
+§ git checkout (nom de la nouvelle branche) 
+
+Et si tu fais un "-p" tu indexe directement la branche
+
+Clooner son robot
+Git cloone 
+
+Creer son robot
+Sur GitHub, new repository
+
+Ajouter tout les éléments 
+§ git add .
+
+Connaitre l'adresse de mon dépôt distant:
+git remote -v
